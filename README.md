@@ -7,14 +7,14 @@ I am Sridhar Vasudevan in my final year currently pursuing B.Tech on Information
 
 ## 🧠 Competitive Programming
 
-- 💻 Codeforces: [Specialist (1426)](https://codeforces.com/profile/YOUR_USERNAME)
-- 🛡️ LeetCode: [Knight (XYZ problems solved)](https://leetcode.com/YOUR_USERNAME)
-- 🌐 AtCoder: [Your Rank](https://atcoder.jp/users/YOUR_USERNAME)
-- 📊 GeeksforGeeks: [Top %ile](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
+- 💻 Codeforces: [Specialist (1426)](https://codeforces.com/profile/Goku333)
+- 💻 CodeChef: [Specialist (1426)](https://codechef.com/profile/sridhar_333)
+- 🛡️ LeetCode: [Knight (350+ problems solved)](https://leetcode.com/Goku333)
 
 ### 📈 Rating Growth
-![Codeforces Growth](https://cp-graph.vercel.app/codeforces/YOUR_USERNAME)
-![LeetCode Stats](https://leetgraph.vercel.app/api?username=YOUR_USERNAME&theme=light)
+![Codeforces Growth](https://cp-graph.vercel.app/codeforces/Goku333)
+![CodeChef Growth](https://cp-graph.vercel.app/codechef/sridhar_333)
+![LeetCode Stats](https://leetgraph.vercel.app/api?username=Goku333&theme=dark)
 
 
 # 💻 Tech Stack:
