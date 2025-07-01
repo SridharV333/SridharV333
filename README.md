@@ -2,8 +2,10 @@
 I am Sridhar Vasudevan in my final year currently pursuing B.Tech on Information Technology from IIIT Allahabad.<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridhar-vasudevan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sridharvasudevan2004@gmail.com) 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-vasudevan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridharvasudevan2004@gmail.com)
 
 ## 🧠 Competitive Programming
 
@@ -19,7 +21,10 @@ I am Sridhar Vasudevan in my final year currently pursuing B.Tech on Information
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SridharV333&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SridharV333&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SridharV333&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SridharV333&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SridharV333&theme=github_dark)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
